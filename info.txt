@@ -1,2 +1,20 @@
 Melisa İrem Akel - 22003923 - https://github.com/22003923
 psychonauts 2 is my favorite video game
+🐙  Welcome to the GitKraken CLI!
+cd into a directory being tracked by Git and type gk graph to see what GitKraken can do
+PS C:\Users\melis\OneDrive\Masaüstü\lab0\CS-102-Github-Tutorial-Spring-2022> git log
+commit bdd406c3e56bc7f5f9d76c184650577ffb8b324b (HEAD -> main, origin/main, origin/HEAD)   
+Merge: 589d25c 6ed86eb
+Author: Melisa İrem Akel <91552191+22003923@users.noreply.github.com>
+Date:   Thu Feb 10 11:00:15 2022 +0300
+
+    Merge pull request #1 from 22003923/‘new_information
+    
+    favorite video game
+
+commit 6ed86eb7c1b33c1e0ed17b5f3befffc147d41a59 (origin/‘new_information, ‘new_information)
+Author: melisa <irem.akel@ug.bilkent.edu.tr>
+Date:   Thu Feb 10 10:57:32 2022 +0300
+
+    favorite video game
+:
